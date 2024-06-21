@@ -1,0 +1,10 @@
+streamlit
+groq
+pypdf
+langchain
+faiss_cpu
+transformers
+accelerate
+torch
+sentence_transformers
+-e .
