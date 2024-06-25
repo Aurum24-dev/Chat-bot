@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 groq
 pypdf
@@ -7,4 +8,15 @@ transformers
 accelerate
 torch
 sentence_transformers
+=======
+streamlit
+groq
+pypdf
+langchain
+faiss_cpu
+transformers
+accelerate
+torch
+sentence_transformers
+>>>>>>> 11bb6b364243b5b0398b74a92c2da540688b395d
 -e .
