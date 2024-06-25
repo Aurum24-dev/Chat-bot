@@ -1,0 +1,7 @@
+README.md
+setup.py
+Chat_bot.egg-info/PKG-INFO
+Chat_bot.egg-info/SOURCES.txt
+Chat_bot.egg-info/dependency_links.txt
+Chat_bot.egg-info/requires.txt
+Chat_bot.egg-info/top_level.txt

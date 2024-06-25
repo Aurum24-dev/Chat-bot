@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Chat-bot
+Version: 0.0.1
+Summary: Chat gpt like clone
+Author: Sonali Basak
+Author-email: sonali62442@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: groq
+Requires-Dist: pypdf
+Requires-Dist: langchain
+Requires-Dist: faiss_cpu
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: torch
+Requires-Dist: sentence_transformers
